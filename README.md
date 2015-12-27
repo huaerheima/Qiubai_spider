@@ -4,3 +4,4 @@
 ![img](https://github.com/huaerheima/Qiubai_spider/blob/master/screenshots/QQ20151227-0@2x.jpg)
 ![img](https://github.com/huaerheima/Qiubai_spider/blob/master/screenshots/QQ20151227-1@2x.jpg)
 ![img](https://github.com/huaerheima/Qiubai_spider/blob/master/screenshots/QQ20151227-2@2x.jpg)
+<img src="/huaerheima/Qiubai_spider/blob/master/screenshots/QQ20151227-2@2x.jpg?raw=true" alt="QQ20151227-2@2x.jpg">
